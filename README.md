@@ -29,40 +29,33 @@ pycaw
 
 
 Mouse Movement: Move the index finger to control the mouse cursor.
-![image](https://github.com/user-attachments/assets/036f1b97-6084-416b-a00e-72afced90acd)
+![image](https://github.com/user-attachments/assets/fce41ace-801b-4ba3-a5a6-6e6ed8150791)
 
 Volume Control: Spread the index finger and thumb; adjust the volume by changing the distance between them.
 ![image](https://github.com/user-attachments/assets/30192255-4d9b-480b-9456-40f8fbdea9a1)
 
 
 Clicking: Pinch with the index and middle fingers to click.
-![image](https://github.com/user-attachments/assets/4cd16ed9-d131-4908-9687-450ee3b78658)
+![image](https://github.com/user-attachments/assets/d120ce42-7e57-400b-9f88-fb53a1e4eb82)
 
 Scrolling Down: Spread three fingers and keep them above the middle of the screen.
-![image](https://github.com/user-attachments/assets/240272ad-bdb9-4a44-9a5b-1168836c1d2a)
+![image](https://github.com/user-attachments/assets/2dcff997-1983-4eb4-83ab-848e1e44b5ba)
+
 
 Scrolling Up: Place the pointer and pinky fingers down while keeping the middle and ring fingers up.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/82ffcf06-4bb3-42e5-8269-1142cae106cb)
 
 
 Window Management: Extend all fingers except the thumb to switch between windows.
-![image](https://github.com/user-attachments/assets/4f9e6252-e56c-4792-81dc-d699fdb30eb0)
+![image](https://github.com/user-attachments/assets/61997c47-e23c-4c65-b146-3d7d27cc7912)
 
 Pause/Play: Tap the space bar by extending the thumb and pinky fingers while keeping the other fingers down.
-![image](https://github.com/user-attachments/assets/4b56b2d9-6f82-40c4-acd2-68c008cd1d05)
+![image](https://github.com/user-attachments/assets/1fea747a-ca26-4db0-8dc1-6b229ca8ad58)
 
 End AI mouse : raise the pointer, thumb and the pinky finger to terminate the ai mouse program
-![image](https://github.com/user-attachments/assets/b8a5d881-2bd6-4f0d-b167-fd9281b4ee95)
+![image](https://github.com/user-attachments/assets/10cfea37-1a44-4d7b-80b5-7e400686a3a2)
 
 
 
-
-
-Volume Control: Show how the volume bar reacts to hand gestures.
-Mouse Movement: Demonstrate cursor movement with index finger positioning.
-Clicking Gesture: Visualize the clicking action triggered by a pinch gesture.
-Scrolling: Illustrate controlled scrolling actions with three-finger gestures.
-Window Management: Display the tab view triggered by a four-finger gesture.
-Pause/Play Action: Show the space bar action using thumb and pinky fingers.
 
 Feel free to submit pull requests, report issues, or suggest improvements. Contributions are welcome!
