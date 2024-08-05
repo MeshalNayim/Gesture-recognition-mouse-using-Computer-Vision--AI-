@@ -1,4 +1,4 @@
-Hand Gesture mouse Control System using openCV and mediapipe
+## Hand Gesture mouse Control System using openCV and mediapipe
 
 Overview
 This project leverages hand gesture recognition to control various system functions using Python. By tracking hand movements and finger positions through a webcam, users can perform actions such as adjusting volume, scrolling, and switching between windows. The system utilizes the OpenCV library for computer vision tasks, PyAutoGUI for automation, and the Pycaw library to control audio settings.
