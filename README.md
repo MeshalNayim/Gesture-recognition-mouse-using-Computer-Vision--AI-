@@ -34,17 +34,14 @@ Mouse Movement: Move the index finger to control the mouse cursor.
 Volume Control: Spread the index finger and thumb; adjust the volume by changing the distance between them.
 ![image](https://github.com/user-attachments/assets/30192255-4d9b-480b-9456-40f8fbdea9a1)
 
-
 Clicking: Pinch with the index and middle fingers to click.
 ![image](https://github.com/user-attachments/assets/d120ce42-7e57-400b-9f88-fb53a1e4eb82)
 
 Scrolling Down: Spread three fingers and keep them above the middle of the screen.
 ![image](https://github.com/user-attachments/assets/2dcff997-1983-4eb4-83ab-848e1e44b5ba)
 
-
 Scrolling Up: Place the pointer and pinky fingers down while keeping the middle and ring fingers up.
 ![image](https://github.com/user-attachments/assets/82ffcf06-4bb3-42e5-8269-1142cae106cb)
-
 
 Window Management: Extend all fingers except the thumb to switch between windows.
 ![image](https://github.com/user-attachments/assets/61997c47-e23c-4c65-b146-3d7d27cc7912)
