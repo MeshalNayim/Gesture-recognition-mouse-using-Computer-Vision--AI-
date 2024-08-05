@@ -32,6 +32,7 @@ Mouse Movement: Move the index finger to control the mouse cursor.
 ![image](https://github.com/user-attachments/assets/036f1b97-6084-416b-a00e-72afced90acd)
 
 Volume Control: Spread the index finger and thumb; adjust the volume by changing the distance between them.
+![image](https://github.com/user-attachments/assets/30192255-4d9b-480b-9456-40f8fbdea9a1)
 
 
 Clicking: Pinch with the index and middle fingers to click.
