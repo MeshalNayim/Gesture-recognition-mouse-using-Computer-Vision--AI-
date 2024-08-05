@@ -27,13 +27,33 @@ pycaw
 
 ## Gestures Demo:
 
-Volume Control: Spread the index finger and thumb; adjust the volume by changing the distance between them.
+
 Mouse Movement: Move the index finger to control the mouse cursor.
+![image](https://github.com/user-attachments/assets/036f1b97-6084-416b-a00e-72afced90acd)
+
+Volume Control: Spread the index finger and thumb; adjust the volume by changing the distance between them.
+
+
 Clicking: Pinch with the index and middle fingers to click.
+![image](https://github.com/user-attachments/assets/4cd16ed9-d131-4908-9687-450ee3b78658)
+
 Scrolling Down: Spread three fingers and keep them above the middle of the screen.
+![image](https://github.com/user-attachments/assets/240272ad-bdb9-4a44-9a5b-1168836c1d2a)
+
 Scrolling Up: Place the pointer and pinky fingers down while keeping the middle and ring fingers up.
+![Uploading image.png…]()
+
+
 Window Management: Extend all fingers except the thumb to switch between windows.
+![image](https://github.com/user-attachments/assets/4f9e6252-e56c-4792-81dc-d699fdb30eb0)
+
 Pause/Play: Tap the space bar by extending the thumb and pinky fingers while keeping the other fingers down.
+![image](https://github.com/user-attachments/assets/4b56b2d9-6f82-40c4-acd2-68c008cd1d05)
+
+End AI mouse : raise the pointer, thumb and the pinky finger to terminate the ai mouse program
+![image](https://github.com/user-attachments/assets/b8a5d881-2bd6-4f0d-b167-fd9281b4ee95)
+
+
 
 
 
